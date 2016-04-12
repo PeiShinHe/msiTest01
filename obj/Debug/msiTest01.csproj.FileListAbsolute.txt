@@ -1,0 +1,9 @@
+G:\C#微星\msiTest01\msiTest01\bin\Debug\msiTest01.exe.config
+G:\C#微星\msiTest01\msiTest01\bin\Debug\msiTest01.exe
+G:\C#微星\msiTest01\msiTest01\bin\Debug\msiTest01.pdb
+G:\C#微星\msiTest01\msiTest01\obj\Debug\msiTest01.Form1.resources
+G:\C#微星\msiTest01\msiTest01\obj\Debug\msiTest01.csproj.GenerateResource.Cache
+G:\C#微星\msiTest01\msiTest01\obj\Debug\msiTest01.exe
+G:\C#微星\msiTest01\msiTest01\obj\Debug\msiTest01.pdb
+G:\C#微星\msiTest01\msiTest01\obj\Debug\msiTest01.csprojResolveAssemblyReference.cache
+G:\C#微星\msiTest01\msiTest01\obj\Debug\SQLFunction.Properties.Resources.resources
